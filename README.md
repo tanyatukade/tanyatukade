@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Tanya Tukade!👋
+I'm a self-motivated tech enthusiast and a software engineer.
 
 <!--
 **tanyatukade/tanyatukade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
