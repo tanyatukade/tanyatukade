@@ -1,5 +1,5 @@
 ### Hi there, I'm Tanya Tukade!👋
-I'm a software engineer at Cisco, contributing to open source cloud projects, specializing in Kubernetes, containers, and cloud native infrastructure. 
+I'm a software engineer at Cisco, contributing to Noiro open source cloud projects, specializing in Kubernetes, containers, and cloud native infrastructure. 
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an avid chess enthusiast and enjoy hiking in my spare time.
