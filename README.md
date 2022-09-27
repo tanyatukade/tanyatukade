@@ -2,7 +2,6 @@
 I'm a software engineer at Cisco, contributing to Noiro open source projects, specializing in Kubernetes, containers, and cloud native infrastructure. 
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm an avid chess enthusiast and enjoy hiking in my spare time.
 
 <!--
 **tanyatukade/tanyatukade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
