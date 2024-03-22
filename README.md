@@ -1,5 +1,5 @@
 ### Hi there, I'm Tanya Tukade!👋
-I'm a software engineer at Google's Professional Services Organization. I work on Application development, Application Modernization, GenAI and optimizing Machine Learning models 
+I am a Software Engineer at Google's Professional Services Organization. I work on Application development, Application Modernization, GenAI and optimizing Machine Learning models 
 
 - 😄 Pronouns: She/Her
 
